@@ -2,6 +2,8 @@
 
 This is a simple 2 Screen app developed using React Native.
 
+[<img src="https://github.com/heysagnik/AwesomeProject/assets/70798495/ac9a9b34-d387-4ff5-8469-7d923e80bc80" width="75%">](https://www.youtube.com/shorts/bwA2Okvw6xw "Preview")
+
 ## Screen A
 
 Screen A consists of two tabs: "Restaurants" and "Cooking". Each tab displays a carousel with item cards that are scrollable. The data rendered in the carousel is filtered based on specific properties.
